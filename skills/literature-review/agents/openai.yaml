@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Review"
+  short_description: "Verifikasi dan sintesis literatur akademik"
+  default_prompt: "Gunakan $literature-review untuk meninjau literatur lengkap yang saya berikan, lalu tampilkan pilihan jenis review, teknik, peta, dan format keluaran."

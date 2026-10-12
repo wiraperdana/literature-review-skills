@@ -1,0 +1,4 @@
+interface:
+  display_name: "Annotated Bibliography"
+  short_description: "Catatan terverifikasi untuk tiap sumber riset"
+  default_prompt: "Gunakan $annotated-bibliography untuk membaca sumber lengkap yang saya berikan. Tampilkan checkbox tanpa pilihan otomatis, tunggu pilihan tipe dan keluaran saya, lalu tulis overview sebelum anotasi tiap tipe."

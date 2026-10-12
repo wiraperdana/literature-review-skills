@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+.venv/
+
+# Materi pihak ketiga, tidak diterbitkan (lihat .publik-kecuali)
+sources
